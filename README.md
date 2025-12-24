@@ -1,3 +1,7 @@
+## 👤 Öğrenci Bilgileri
+- *Ad Soyad:* Cudi Şami
+- *Öğrenci Numarası:* 2012721308
+---
 # YOLOv8 ile Araba ve Motor Nesne Tespiti
 
 ## Makine Öğrenmesi Proje Ödevi
@@ -74,16 +78,20 @@ Arayüz, kullanıcı dostu ve sade bir tasarım ile geliştirilmiştir.
 
 ```bash
 python -m venv venv
-
+```
 ### Sanal Ortamı Aktif Etme (Windows)
+```
 venv\Scripts\activate
+```
 
 ### Gerekli Kütüphanelerin Kurulumu
+```
 pip install -r requirements.txt
-
+```
 ### Uygulamayı Çalıştırma
+```
 python gui/main.py
-
+```
 ---
 
 ### Kullanılan Teknolojiler
@@ -105,7 +113,7 @@ Google Colab
 ---
 
 ### Proje Dosya Yapısı
-
+```
 yolo_gui_project/
 │
 ├── gui/
@@ -117,7 +125,7 @@ yolo_gui_project/
 ├── yolo_training.ipynb  # Model eğitim süreci
 ├── requirements.txt    # Gerekli kütüphaneler
 └── README.md            # Proje dokümantasyonu
-
+```
 ---
 
 ### Akademik Dürüstlük
@@ -125,9 +133,7 @@ Bu projede kullanılan veri seti, etiketleme işlemleri ve yazılım kodları ta
 
 ---
 
-### Proje Sahibi
-Cudi Şami
-2012721308
-Bilgisayar Mühendisliği Makine Öğrenmesi Dersi
 
-```
+
+
+
