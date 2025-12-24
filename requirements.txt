@@ -1,0 +1,6 @@
+ultralytics
+torch
+torchvision
+opencv-python
+PyQt5
+numpy
