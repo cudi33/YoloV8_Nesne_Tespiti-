@@ -129,9 +129,10 @@ yolo_gui_project/
 ---
 
 ### Akademik Dürüstlük
-Bu projede kullanılan veri seti, etiketleme işlemleri ve yazılım kodları tamamen proje sahibine aittir. Hazır veri seti veya kopya proje kullanılmamıştır.
+Bu projede kullanılan veri seti, etiketleme işlemleri ve yazılım kodları tamamen proje sahibine aittir. 
 
 ---
+
 
 
 
